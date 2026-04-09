@@ -60,3 +60,10 @@ htmlcov/
 # Output files (keep plots, exclude temp)
 outputs/*.tmp
 *.log
+
+# Frontend (Node.js/React)
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+frontend/.env.*.local
+frontend/.vite/
